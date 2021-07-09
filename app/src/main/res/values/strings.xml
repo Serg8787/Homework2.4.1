@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework2.4.1</string>
+    <string name="new_game">New Game</string>
+    <string name="continuee">Continue</string>
+    <string name="options">Options</string>
+    <string name="about">About</string>
+</resources>
